@@ -1,4 +1,4 @@
-# TinyWebServe_with_Code_Comments 详细注释版本
+# TinyWebServe_with_Code_Aomments 详细注释版本
 
 项目是基于 Linux 的轻量级多线程 Web 服务器，应用层实现了一个简单的HTTP 服务器，支持用户登录与静态资源访问。
 
